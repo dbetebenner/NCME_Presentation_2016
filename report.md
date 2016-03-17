@@ -8,3 +8,5 @@ A tutorial on Markdown can be found [here](https://view.literasee.io/Literasee/B
 ## Introduction
 
 An introduction to GitHub
+
+This text is from Ben
