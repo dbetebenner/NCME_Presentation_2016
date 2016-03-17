@@ -24,3 +24,9 @@ Presentations support Markdown as well as MathJax (Mathematics typesetting).
 
 - [A presentation illustrating Markdown](https://view.literasee.io/literasee/Basic_Literasee--Markdown/presentation/#/)
 - [A presentation illustrating MathJax](https://view.literasee.io/literasee/Basic_Literasee_Mathematics/presentation/#/)
+
+---
+
+How to include an SVG image
+
+<a href="https://literasee.github.io"><img src="https://literasee.github.io/public/Literasee_symbol_right_trimmed.svg" align="center" hspace="10" vspace="10"></a>
