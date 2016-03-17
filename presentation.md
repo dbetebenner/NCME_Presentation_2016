@@ -27,6 +27,12 @@ Presentations support Markdown as well as MathJax (Mathematics typesetting).
 
 ---
 
-How to include an SVG image
+Embedding vector graphics:
 
-<a href="https://literasee.github.io"><img src="https://literasee.github.io/public/Literasee_symbol_right_trimmed.svg" align="center" hspace="10" vspace="10"></a>
+===
+
+![]("https://literasee.github.io/public/Literasee_symbol_right_trimmed.svg")
+
+===
+
+<a href="https://literasee.github.io"><img src="https://literasee.github.io/public/Literasee_symbol_right_trimmed.svg" style="width: 60%;"></a>
