@@ -99,9 +99,8 @@
 - Measurement error in scores used to calculate SGPs leads to bias.
     - Prior and current score measurement error leads to error in SGPs.
     - Non-random assignment of students cluster errors.
-- Bias in mSGPs
+- Bias in mSGPs: against lower achieving groups and for higher achieving groups.
 
-===
 
 ===
 
@@ -117,7 +116,6 @@
 
 - How much different would results be if distributional assumptions relaxed?
 - Would be great to see an ethically grounded discussion of "fairness" merged with these validation efforts.
-- 
 
 
 <!---
@@ -161,33 +159,32 @@ has led to problems in creating labels.
 - Are adequate growth percentiles (AGP) supported with the MIRT framework?
     - This would help in establishing criterion-referenced for students.
     - How would those translate to CGP?
-
-===
-
-### Questions
-
 - How important are distributional assumptions?
-    - What is the impact of ceilings/floors?
-    -
+- What is the impact of ceilings/floors?
 
+
+---
 
 <!---
 #######################################################################################
-### Monroe & Cai
+### Summary
 #######################################################################################
 -->
-
----
 
 ## Summary
 
 ===
 
-### Stuff
+### 3 Wonderful papers
+
+- Papers all make significant contributions to the understanding of the role the measurement error plays in SGPs and SGP summaries.
+- Papers all cognizant of the role of utility which was a primary design criterion in their development.
+- Papers all contribute to efforts to use growth data sensibly, especially when used for evaluative purposes.
+
 
 <!---
 #######################################################################################
-### Summary
+### References
 #######################################################################################
 -->
 
