@@ -1,3 +1,2 @@
-<a href="https://literasee.github.io"><img src="https://literasee.github.io/public/Literasee_symbol_right_trimmed.svg" align="left" hspace="10" vspace="6"></a>
-
-Check out how it looks in a [Report](https://view.literasee.io/dbetebenner/NCME_Presentation_2016/report) or a [Presentation](https://view.literasee.io/dbetebenner/NCME_Presentation_2016/presentation/#/)
+[Presentation slides](https://view.literasee.io/dbetebenner/NCME_Presentation_2016/presentation/#/) associated with discussion of student 
+growth percentiles at NCME 2016 Conference, Washington, DC.
