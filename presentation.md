@@ -6,8 +6,8 @@
 
 ### 2 Themes to Connect 3 Papers
 
-1. Measurement error & SGPs
-2. Measures versus Indicators
+<p class="fragment">1. Measurement error & SGPs.</p>
+<p class="fragment">2. Measures versus Indicators.</p>
 
 ===
 
