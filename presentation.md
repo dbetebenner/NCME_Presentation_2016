@@ -1,34 +1,85 @@
-# Basic Literasee
-## Presentations
+# Student Growth Percentiles
+## NCME 2016 Washington, DC
 
 ---
 
-Currently, Literasee uses [reveal.js](http://lab.hakim.se/reveal-js/#/) as the presentation framework.
+# Two Themes to Connect 3 Papers
+
+- Measurement error & SGPs
+- Measures versus Indicators
 
 ===
 
-Reveal.js allows one to create a two dimensional grid of slides. Markdown is used to format the content for the presentation.
+## Stuff
+
+
+
+
+<!---
+#######################################################################################
+### Denbleyker and Lin
+#######################################################################################
+-->
 
 ---
 
-Three dashes are used to create a slide break (vertical)
+### Evaluating Student Growth Percentiles: Perspective of Test-Retest Reliability
+
+#### Johnny Denbleyker & Ye Lin
 
 ===
 
-Three equals signs are used to create a slide break (horizontal)
+### Stuff
 
+
+<!---
+#######################################################################################
+### Furgol Castellano, McCaffrey & Lockwood
+#######################################################################################
+-->
 
 ---
 
-Presentations support Markdown as well as MathJax (Mathematics typesetting).
+### The Accuracy and Fairness of Aggregate Student Growth Percentiles as Indicators of Student Performance
 
-- [A presentation illustrating Markdown](https://view.literasee.io/literasee/Basic_Literasee--Markdown/presentation/#/)
-- [A presentation illustrating MathJax](https://view.literasee.io/literasee/Basic_Literasee_Mathematics/presentation/#/)
+#### Katherine Furgol Castellano, Daniel McCaffrey, & J. R. Lockwood
 
----
 
-Embedding vector graphics:
 
 ===
 
-<a href="https://literasee.github.io"><img src="https://literasee.github.io/public/Literasee_symbol_right_trimmed.svg" style="width: 100%;"></a>
+### Stuff
+
+
+
+<!---
+#######################################################################################
+### Monroe & Cai
+#######################################################################################
+-->
+
+---
+
+### Cluster Growth Percentiles: An Alternative to Aggregated Student Growth Percentiles
+
+#### Scott Monroe & Li Cai
+
+
+===
+
+### Stuff
+
+
+<!---
+#######################################################################################
+### Monroe & Cai
+#######################################################################################
+-->
+
+---
+
+## Summary
+
+===
+
+### Stuff
