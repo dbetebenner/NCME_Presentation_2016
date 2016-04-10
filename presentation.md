@@ -27,7 +27,7 @@
 ### Measures, measures everywhere ...
 
 - The term _measure_ is used to describe just about every number these days.
-- Met Study: "Effective teaching can be measured" versus Effective teaching can be evaluated.
+- Met Study: "Effective teaching can be measured". Why not: "Effective teaching can be evaluated."
 - Stevens: “measurement is the assignment of numerals to objects or events according to rule”.
 - See Joel Michell’s Measurement in Psychology (2005) for a critical examination of Steven’s concept and psychological measurement in general.
 - Our field has been lax on policing the boundaries of what is (and isn’t) a measure.
@@ -37,20 +37,21 @@
 
 ### Measures versus Indicators
 
-- Is there any difference? You say tomato, I say tomato.
+- You say tomato, I say tomato.
 - My impression: _measure_ connotes something "scientific" whereas indicator is more _fuzzy_.
 - Validating a _measure_ commits one to particular validation tasks.
 - How does one validate an _indicator_?
     - Large overlap with validation of measures.
     - Valid indicators are useful (utility).
+    - Measures needn't be useful.
 
 ===
 
 ### Measures versus Indicators
 
--
-- Big push in educational measurement to increase utility even at the expense of
-- Maybe all we've ever had were indicators.
+- Big push in educational measurement to increase utility of assessment results even at the expense of desirable technical qualities (e.g. precision).
+- Does an indicator need to be a "causal estimator" to be a part of personnel evaluation?
+- Maybe indicators are all we've ever had.
 
 <!---
 #######################################################################################
@@ -69,7 +70,7 @@
 ### Academic Peers
 
 - Report contains LOTS of analyses looking at both accuracy and precision of SGPs
-- 
+-
 
 
 <!---
@@ -93,6 +94,30 @@
 
 ===
 
+### SGPs and measurement error
+
+- Measurement error in scores used to calculate SGPs leads to bias.
+    - Prior and current score measurement error leads to error in SGPs.
+    - Non-random assignment of students cluster errors.
+- Bias in mSGPs
+
+===
+
+===
+
+### mSGPs and Fairness
+
+- Different conceptualizations of Fairness
+    - Absence of measurement bias.
+    - Absence of differential impact.
+- Paper uses the latter but examines differential impact related to measurement bias.
+- Is this really "fairness" or just measurement bias.
+
+### Questions/Wish list
+
+- How much different would results be if distributional assumptions relaxed?
+- Would be great to see an ethically grounded discussion of "fairness" merged with these validation efforts.
+- 
 
 
 <!---
@@ -112,8 +137,9 @@
 
 ### Cluster Growth Percentiles (CGP)
 
+- The work with MIRT and SGPs is really phenomenal!
 - A group SGP summary that isn't an aggregation of individual SGPs.
-- Elegantly deals with measurement error adjusting for bias and providing precision/reliability estimates.
+- Uses MIRT framework to elegantly deal with measurement error adjusting for bias and providing precision/reliability estimates.
 - Importantly: CGPs are uniformly distributed like SGPs.
 
 
@@ -121,7 +147,28 @@
 
 ### In search of a reporting scale
 
-- From the initial release of Colorado Growth Model data, differing distributions between median/mean SGPs and
+- From the initial release of Colorado Growth Model, distribution differences between mSGPs and SGPs
+has led to problems in creating labels.
+    - Low, Typical, High SGPs had different cuts than mSGP.
+    - Easier to motivate group growth with the same cuts.
+- Applaud the authors for recognizing the utility of this!
+
+
+===
+
+### Questions
+
+- Are adequate growth percentiles (AGP) supported with the MIRT framework?
+    - This would help in establishing criterion-referenced for students.
+    - How would those translate to CGP?
+
+===
+
+### Questions
+
+- How important are distributional assumptions?
+    - What is the impact of ceilings/floors?
+    -
 
 
 <!---
