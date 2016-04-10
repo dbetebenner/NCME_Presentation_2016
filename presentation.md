@@ -4,10 +4,10 @@
 
 ---
 
-## 2 Themes to Connect 3 Papers
+### 2 Themes to Connect 3 Papers
 
-- Measurement error & SGPs
-- Measures versus Indicators
+1. Measurement error & SGPs
+2. Measures versus Indicators
 
 ===
 
