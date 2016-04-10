@@ -15,7 +15,7 @@
 > eroding both the accuracy and precision of estimates
 > (Carroll, Ruppert & Stefanski, 1995)
 
-
+### Measurement error in scores used for SGP calculation impacts both the accuracy (bias) and precision of SGPs.
 
 <!---
 #######################################################################################
