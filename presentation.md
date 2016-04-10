@@ -4,7 +4,7 @@
 
 ---
 
-### 2 Themes to Connect 3 Papers
+### Two Themes to Connect 3 Papers
 
 <p class="fragment">1. Measurement error & SGPs.</p>
 <p class="fragment">2. Measures versus Indicators.</p>
@@ -13,7 +13,9 @@
 
 ### Measurement error in scores used for SGP calculation impacts both the accuracy (bias) and precision of SGPs.
 
-##### "Measurement error results in a double whammy eroding both the accuracy and precision of estimates." (Carroll, Ruppert & Stefanski, 1995)
+#### Measurement error results in a double whammy eroding both the accuracy and precision of estimates.
+
+##### (Carroll, Ruppert & Stefanski, 1995)
 
 
 ===
@@ -29,7 +31,7 @@
 - The term _measure_ is used to describe just about every number these days.
 - Met Study: "Effective teaching can be measured". Why not: "Effective teaching can be evaluated."
 - Stevens: “measurement is the assignment of numerals to objects or events according to rule”.
-- See Joel Michell’s Measurement in Psychology (2005) for a critical examination of Steven’s concept and psychological measurement in general.
+- See Joel Michell’s _Measurement in Psychology_ (2005) for a critical examination of Steven’s concept and psychological measurement in general.
 - Our field has been lax on policing the boundaries of what is (and isn’t) a measure.
 
 
@@ -70,7 +72,32 @@
 ### Academic Peers
 
 - Report contains LOTS of analyses looking at both accuracy and precision of SGPs
--
+- Will focus on issues related to academic peers.
+- Causes the most confusion in explaining SGPs.
+- A heuristic meant to avoid using the **R** word: Regression.
+
+===
+
+### Academic Peers
+
+- Academic peers are students with the exact same prior scale score history.
+- Regression yields the functional relationship between priors and current scores using all data.
+- In practice, students are normed against all students with _at least_ as many priors as them.
+- Thus, some students have 1st order SGPs while others have higher order SGPs.
+
+===
+
+### Academic Peers
+
+- In general, no systematic difference between 1st, 2nd, 3rd, ... order groups!
+- However, there are instances of where differences exist.
+- The group of students with just a single prior were qualitatively different than the students with more priors who they
+were normed with.
+
+### Questions/Wish list
+
+- With regard to the profile patterns you found, are there other explanations for the differences?
+- Your interim assessment data has significant differences in time-lapse. Have you considered conditioning on time-lag in addition to prior scores?
 
 
 <!---
@@ -111,6 +138,8 @@
     - Absence of differential impact.
 - Paper uses the latter but examines differential impact related to measurement bias.
 - Is this really "fairness" or just measurement bias.
+
+===
 
 ### Questions/Wish list
 
@@ -175,10 +204,10 @@ has led to problems in creating labels.
 
 ===
 
-### 3 Wonderful papers
+### 3 great papers
 
 - Papers all make significant contributions to the understanding of the role the measurement error plays in SGPs and SGP summaries.
-- Papers all cognizant of the role of utility which was a primary design criterion in their development.
+- Papers all cognizant of the role of _utility_ which was a primary design criterion in the creation of SGPs.
 - Papers all contribute to efforts to use growth data sensibly, especially when used for evaluative purposes.
 
 
@@ -193,3 +222,5 @@ has led to problems in creating labels.
 ## References
 
 ##### Carroll, R. J., Ruppert, D., & Stefanski, L. A. (1995). _Measurement error in nonlinear models_. London: Chapman & Hall.
+
+##### Michell, J (2005). _Measurement in Psychology_. New York: Cambridge University Press.
