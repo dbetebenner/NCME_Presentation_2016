@@ -48,9 +48,9 @@
 
 ### Measures versus Indicators
 
-- Wh
+-
 - Big push in educational measurement to increase utility even at the expense of
-- Maybe all we've ever had were indicators. 
+- Maybe all we've ever had were indicators.
 
 <!---
 #######################################################################################
@@ -66,7 +66,10 @@
 
 ===
 
-### Stuff
+### Academic Peers
+
+- Report contains LOTS of analyses looking at both accuracy and precision of SGPs
+- 
 
 
 <!---
@@ -107,7 +110,18 @@
 
 ===
 
-### Stuff
+### Cluster Growth Percentiles (CGP)
+
+- A group SGP summary that isn't an aggregation of individual SGPs.
+- Elegantly deals with measurement error adjusting for bias and providing precision/reliability estimates.
+- Importantly: CGPs are uniformly distributed like SGPs.
+
+
+===
+
+### In search of a reporting scale
+
+- From the initial release of Colorado Growth Model data, differing distributions between median/mean SGPs and
 
 
 <!---
