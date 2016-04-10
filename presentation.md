@@ -1,5 +1,6 @@
-# Student Growth Percentiles
-## NCME 2016 Washington, DC
+## Student Growth Percentiles
+### Damian Betebenner
+### NCME 2016 Washington, DC
 
 ---
 
