@@ -94,6 +94,8 @@
 - The group of students with just a single prior were qualitatively different than the students with more priors who they
 were normed with.
 
+===
+
 ### Questions/Wish list
 
 - With regard to the profile patterns you found, are there other explanations for the differences?
@@ -123,6 +125,7 @@ were normed with.
 
 ### SGPs and measurement error
 
+- Some beautiful derivations in the paper. 
 - Measurement error in scores used to calculate SGPs leads to bias.
     - Prior and current score measurement error leads to error in SGPs.
     - Non-random assignment of students cluster errors.
@@ -183,7 +186,7 @@ has led to problems in creating labels.
 
 ===
 
-### Questions
+### Questions/Wish List
 
 - Are adequate growth percentiles (AGP) supported with the MIRT framework?
     - This would help in establishing criterion-referenced for students.
