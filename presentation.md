@@ -3,7 +3,7 @@
 
 ---
 
-# Two Themes to Connect 3 Papers
+## 2 Themes to Connect 3 Papers
 
 - Measurement error & SGPs
 - Measures versus Indicators
