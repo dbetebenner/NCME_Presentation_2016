@@ -11,8 +11,9 @@
 
 ===
 
-## Stuff
-
+> Measurement error results in a “double whammy”
+> eroding both the accuracy and precision of estimates
+> (Carroll, Ruppert & Stefanski, 1995)
 
 
 
@@ -84,3 +85,13 @@
 ===
 
 ### Stuff
+
+<!---
+#######################################################################################
+### Summary
+#######################################################################################
+-->
+
+---
+
+## References
