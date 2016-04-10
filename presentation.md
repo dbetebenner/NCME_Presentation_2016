@@ -95,3 +95,5 @@
 ---
 
 ## References
+
+##### Carroll, R. J., Ruppert, D., & Stefanski, L. A. (1995). Measurement error in nonlinear models. London: Chapman & Hall.
